@@ -1,7 +1,6 @@
 {
   "name": "cv_french",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
     "bootstrap": "^4.4.1",
     "handlebars": "^4.7.3",
     "jquery": "^3.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbcoudert/cv_french.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbcoudert/cv_french/issues"
+  },
+  "homepage": "https://github.com/jbcoudert/cv_french#readme",
+  "description": ""
 }
